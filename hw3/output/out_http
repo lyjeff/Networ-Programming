@@ -1,0 +1,486 @@
+
+=========================================
+Packet number 1
+
+	Time: May 13 2004, 18:17:07
+	Mac Source Address: 00:00:01:00:00:00
+	Mac Destination Address: fe:ff:20:00:01:00
+	Protocol Type: TCP
+	Source IP: 145.254.160.237:3372
+	Destination IP: 65.208.228.223:80
+	Packet Length: 62 bytes
+
+=========================================
+Packet number 2
+
+	Time: May 13 2004, 18:17:08
+	Mac Source Address: fe:ff:20:00:01:00
+	Mac Destination Address: 00:00:01:00:00:00
+	Protocol Type: TCP
+	Source IP: 65.208.228.223:80
+	Destination IP: 145.254.160.237:3372
+	Packet Length: 62 bytes
+
+=========================================
+Packet number 3
+
+	Time: May 13 2004, 18:17:08
+	Mac Source Address: 00:00:01:00:00:00
+	Mac Destination Address: fe:ff:20:00:01:00
+	Protocol Type: TCP
+	Source IP: 145.254.160.237:3372
+	Destination IP: 65.208.228.223:80
+	Packet Length: 54 bytes
+
+=========================================
+Packet number 4
+
+	Time: May 13 2004, 18:17:08
+	Mac Source Address: 00:00:01:00:00:00
+	Mac Destination Address: fe:ff:20:00:01:00
+	Protocol Type: TCP
+	Source IP: 145.254.160.237:3372
+	Destination IP: 65.208.228.223:80
+	Packet Length: 533 bytes
+
+=========================================
+Packet number 5
+
+	Time: May 13 2004, 18:17:08
+	Mac Source Address: fe:ff:20:00:01:00
+	Mac Destination Address: 00:00:01:00:00:00
+	Protocol Type: TCP
+	Source IP: 65.208.228.223:80
+	Destination IP: 145.254.160.237:3372
+	Packet Length: 54 bytes
+
+=========================================
+Packet number 6
+
+	Time: May 13 2004, 18:17:08
+	Mac Source Address: fe:ff:20:00:01:00
+	Mac Destination Address: 00:00:01:00:00:00
+	Protocol Type: TCP
+	Source IP: 65.208.228.223:80
+	Destination IP: 145.254.160.237:3372
+	Packet Length: 1434 bytes
+
+=========================================
+Packet number 7
+
+	Time: May 13 2004, 18:17:09
+	Mac Source Address: 00:00:01:00:00:00
+	Mac Destination Address: fe:ff:20:00:01:00
+	Protocol Type: TCP
+	Source IP: 145.254.160.237:3372
+	Destination IP: 65.208.228.223:80
+	Packet Length: 54 bytes
+
+=========================================
+Packet number 8
+
+	Time: May 13 2004, 18:17:09
+	Mac Source Address: fe:ff:20:00:01:00
+	Mac Destination Address: 00:00:01:00:00:00
+	Protocol Type: TCP
+	Source IP: 65.208.228.223:80
+	Destination IP: 145.254.160.237:3372
+	Packet Length: 1434 bytes
+
+=========================================
+Packet number 9
+
+	Time: May 13 2004, 18:17:09
+	Mac Source Address: 00:00:01:00:00:00
+	Mac Destination Address: fe:ff:20:00:01:00
+	Protocol Type: TCP
+	Source IP: 145.254.160.237:3372
+	Destination IP: 65.208.228.223:80
+	Packet Length: 54 bytes
+
+=========================================
+Packet number 10
+
+	Time: May 13 2004, 18:17:09
+	Mac Source Address: fe:ff:20:00:01:00
+	Mac Destination Address: 00:00:01:00:00:00
+	Protocol Type: TCP
+	Source IP: 65.208.228.223:80
+	Destination IP: 145.254.160.237:3372
+	Packet Length: 1434 bytes
+
+=========================================
+Packet number 11
+
+	Time: May 13 2004, 18:17:09
+	Mac Source Address: fe:ff:20:00:01:00
+	Mac Destination Address: 00:00:01:00:00:00
+	Protocol Type: TCP
+	Source IP: 65.208.228.223:80
+	Destination IP: 145.254.160.237:3372
+	Packet Length: 1434 bytes
+
+=========================================
+Packet number 12
+
+	Time: May 13 2004, 18:17:09
+	Mac Source Address: 00:00:01:00:00:00
+	Mac Destination Address: fe:ff:20:00:01:00
+	Protocol Type: TCP
+	Source IP: 145.254.160.237:3372
+	Destination IP: 65.208.228.223:80
+	Packet Length: 54 bytes
+
+=========================================
+Packet number 13
+
+	Time: May 13 2004, 18:17:09
+	Mac Source Address: 00:00:01:00:00:00
+	Mac Destination Address: fe:ff:20:00:01:00
+	Protocol Type: UDP
+	Source IP: 145.254.160.237:3009
+	Destination IP: 145.253.2.203:53
+	Packet Length: 89 bytes
+
+=========================================
+Packet number 14
+
+	Time: May 13 2004, 18:17:09
+	Mac Source Address: fe:ff:20:00:01:00
+	Mac Destination Address: 00:00:01:00:00:00
+	Protocol Type: TCP
+	Source IP: 65.208.228.223:80
+	Destination IP: 145.254.160.237:3372
+	Packet Length: 1434 bytes
+
+=========================================
+Packet number 15
+
+	Time: May 13 2004, 18:17:10
+	Mac Source Address: 00:00:01:00:00:00
+	Mac Destination Address: fe:ff:20:00:01:00
+	Protocol Type: TCP
+	Source IP: 145.254.160.237:3372
+	Destination IP: 65.208.228.223:80
+	Packet Length: 54 bytes
+
+=========================================
+Packet number 16
+
+	Time: May 13 2004, 18:17:10
+	Mac Source Address: fe:ff:20:00:01:00
+	Mac Destination Address: 00:00:01:00:00:00
+	Protocol Type: TCP
+	Source IP: 65.208.228.223:80
+	Destination IP: 145.254.160.237:3372
+	Packet Length: 1434 bytes
+
+=========================================
+Packet number 17
+
+	Time: May 13 2004, 18:17:10
+	Mac Source Address: fe:ff:20:00:01:00
+	Mac Destination Address: 00:00:01:00:00:00
+	Protocol Type: UDP
+	Source IP: 145.253.2.203:53
+	Destination IP: 145.254.160.237:3009
+	Packet Length: 188 bytes
+
+=========================================
+Packet number 18
+
+	Time: May 13 2004, 18:17:10
+	Mac Source Address: 00:00:01:00:00:00
+	Mac Destination Address: fe:ff:20:00:01:00
+	Protocol Type: TCP
+	Source IP: 145.254.160.237:3371
+	Destination IP: 216.239.59.99:80
+	Packet Length: 775 bytes
+
+=========================================
+Packet number 19
+
+	Time: May 13 2004, 18:17:10
+	Mac Source Address: 00:00:01:00:00:00
+	Mac Destination Address: fe:ff:20:00:01:00
+	Protocol Type: TCP
+	Source IP: 145.254.160.237:3372
+	Destination IP: 65.208.228.223:80
+	Packet Length: 54 bytes
+
+=========================================
+Packet number 20
+
+	Time: May 13 2004, 18:17:10
+	Mac Source Address: fe:ff:20:00:01:00
+	Mac Destination Address: 00:00:01:00:00:00
+	Protocol Type: TCP
+	Source IP: 65.208.228.223:80
+	Destination IP: 145.254.160.237:3372
+	Packet Length: 1434 bytes
+
+=========================================
+Packet number 21
+
+	Time: May 13 2004, 18:17:10
+	Mac Source Address: fe:ff:20:00:01:00
+	Mac Destination Address: 00:00:01:00:00:00
+	Protocol Type: TCP
+	Source IP: 65.208.228.223:80
+	Destination IP: 145.254.160.237:3372
+	Packet Length: 1434 bytes
+
+=========================================
+Packet number 22
+
+	Time: May 13 2004, 18:17:10
+	Mac Source Address: 00:00:01:00:00:00
+	Mac Destination Address: fe:ff:20:00:01:00
+	Protocol Type: TCP
+	Source IP: 145.254.160.237:3372
+	Destination IP: 65.208.228.223:80
+	Packet Length: 54 bytes
+
+=========================================
+Packet number 23
+
+	Time: May 13 2004, 18:17:10
+	Mac Source Address: fe:ff:20:00:01:00
+	Mac Destination Address: 00:00:01:00:00:00
+	Protocol Type: TCP
+	Source IP: 65.208.228.223:80
+	Destination IP: 145.254.160.237:3372
+	Packet Length: 1434 bytes
+
+=========================================
+Packet number 24
+
+	Time: May 13 2004, 18:17:10
+	Mac Source Address: fe:ff:20:00:01:00
+	Mac Destination Address: 00:00:01:00:00:00
+	Protocol Type: TCP
+	Source IP: 216.239.59.99:80
+	Destination IP: 145.254.160.237:3371
+	Packet Length: 54 bytes
+
+=========================================
+Packet number 25
+
+	Time: May 13 2004, 18:17:11
+	Mac Source Address: 00:00:01:00:00:00
+	Mac Destination Address: fe:ff:20:00:01:00
+	Protocol Type: TCP
+	Source IP: 145.254.160.237:3372
+	Destination IP: 65.208.228.223:80
+	Packet Length: 54 bytes
+
+=========================================
+Packet number 26
+
+	Time: May 13 2004, 18:17:11
+	Mac Source Address: fe:ff:20:00:01:00
+	Mac Destination Address: 00:00:01:00:00:00
+	Protocol Type: TCP
+	Source IP: 216.239.59.99:80
+	Destination IP: 145.254.160.237:3371
+	Packet Length: 1484 bytes
+
+=========================================
+Packet number 27
+
+	Time: May 13 2004, 18:17:11
+	Mac Source Address: fe:ff:20:00:01:00
+	Mac Destination Address: 00:00:01:00:00:00
+	Protocol Type: TCP
+	Source IP: 216.239.59.99:80
+	Destination IP: 145.254.160.237:3371
+	Packet Length: 214 bytes
+
+=========================================
+Packet number 28
+
+	Time: May 13 2004, 18:17:11
+	Mac Source Address: 00:00:01:00:00:00
+	Mac Destination Address: fe:ff:20:00:01:00
+	Protocol Type: TCP
+	Source IP: 145.254.160.237:3371
+	Destination IP: 216.239.59.99:80
+	Packet Length: 54 bytes
+
+=========================================
+Packet number 29
+
+	Time: May 13 2004, 18:17:11
+	Mac Source Address: fe:ff:20:00:01:00
+	Mac Destination Address: 00:00:01:00:00:00
+	Protocol Type: TCP
+	Source IP: 65.208.228.223:80
+	Destination IP: 145.254.160.237:3372
+	Packet Length: 1434 bytes
+
+=========================================
+Packet number 30
+
+	Time: May 13 2004, 18:17:11
+	Mac Source Address: 00:00:01:00:00:00
+	Mac Destination Address: fe:ff:20:00:01:00
+	Protocol Type: TCP
+	Source IP: 145.254.160.237:3372
+	Destination IP: 65.208.228.223:80
+	Packet Length: 54 bytes
+
+=========================================
+Packet number 31
+
+	Time: May 13 2004, 18:17:11
+	Mac Source Address: fe:ff:20:00:01:00
+	Mac Destination Address: 00:00:01:00:00:00
+	Protocol Type: TCP
+	Source IP: 65.208.228.223:80
+	Destination IP: 145.254.160.237:3372
+	Packet Length: 1434 bytes
+
+=========================================
+Packet number 32
+
+	Time: May 13 2004, 18:17:11
+	Mac Source Address: fe:ff:20:00:01:00
+	Mac Destination Address: 00:00:01:00:00:00
+	Protocol Type: TCP
+	Source IP: 65.208.228.223:80
+	Destination IP: 145.254.160.237:3372
+	Packet Length: 1434 bytes
+
+=========================================
+Packet number 33
+
+	Time: May 13 2004, 18:17:11
+	Mac Source Address: 00:00:01:00:00:00
+	Mac Destination Address: fe:ff:20:00:01:00
+	Protocol Type: TCP
+	Source IP: 145.254.160.237:3372
+	Destination IP: 65.208.228.223:80
+	Packet Length: 54 bytes
+
+=========================================
+Packet number 34
+
+	Time: May 13 2004, 18:17:11
+	Mac Source Address: fe:ff:20:00:01:00
+	Mac Destination Address: 00:00:01:00:00:00
+	Protocol Type: TCP
+	Source IP: 65.208.228.223:80
+	Destination IP: 145.254.160.237:3372
+	Packet Length: 1434 bytes
+
+=========================================
+Packet number 35
+
+	Time: May 13 2004, 18:17:11
+	Mac Source Address: 00:00:01:00:00:00
+	Mac Destination Address: fe:ff:20:00:01:00
+	Protocol Type: TCP
+	Source IP: 145.254.160.237:3372
+	Destination IP: 65.208.228.223:80
+	Packet Length: 54 bytes
+
+=========================================
+Packet number 36
+
+	Time: May 13 2004, 18:17:12
+	Mac Source Address: fe:ff:20:00:01:00
+	Mac Destination Address: 00:00:01:00:00:00
+	Protocol Type: TCP
+	Source IP: 216.239.59.99:80
+	Destination IP: 145.254.160.237:3371
+	Packet Length: 1484 bytes
+
+=========================================
+Packet number 37
+
+	Time: May 13 2004, 18:17:12
+	Mac Source Address: 00:00:01:00:00:00
+	Mac Destination Address: fe:ff:20:00:01:00
+	Protocol Type: TCP
+	Source IP: 145.254.160.237:3371
+	Destination IP: 216.239.59.99:80
+	Packet Length: 54 bytes
+
+=========================================
+Packet number 38
+
+	Time: May 13 2004, 18:17:12
+	Mac Source Address: fe:ff:20:00:01:00
+	Mac Destination Address: 00:00:01:00:00:00
+	Protocol Type: TCP
+	Source IP: 65.208.228.223:80
+	Destination IP: 145.254.160.237:3372
+	Packet Length: 478 bytes
+
+=========================================
+Packet number 39
+
+	Time: May 13 2004, 18:17:12
+	Mac Source Address: 00:00:01:00:00:00
+	Mac Destination Address: fe:ff:20:00:01:00
+	Protocol Type: TCP
+	Source IP: 145.254.160.237:3372
+	Destination IP: 65.208.228.223:80
+	Packet Length: 54 bytes
+
+=========================================
+Packet number 40
+
+	Time: May 13 2004, 18:17:25
+	Mac Source Address: fe:ff:20:00:01:00
+	Mac Destination Address: 00:00:01:00:00:00
+	Protocol Type: TCP
+	Source IP: 65.208.228.223:80
+	Destination IP: 145.254.160.237:3372
+	Packet Length: 54 bytes
+
+=========================================
+Packet number 41
+
+	Time: May 13 2004, 18:17:25
+	Mac Source Address: 00:00:01:00:00:00
+	Mac Destination Address: fe:ff:20:00:01:00
+	Protocol Type: TCP
+	Source IP: 145.254.160.237:3372
+	Destination IP: 65.208.228.223:80
+	Packet Length: 54 bytes
+
+=========================================
+Packet number 42
+
+	Time: May 13 2004, 18:17:37
+	Mac Source Address: 00:00:01:00:00:00
+	Mac Destination Address: fe:ff:20:00:01:00
+	Protocol Type: TCP
+	Source IP: 145.254.160.237:3372
+	Destination IP: 65.208.228.223:80
+	Packet Length: 54 bytes
+
+=========================================
+Packet number 43
+
+	Time: May 13 2004, 18:17:37
+	Mac Source Address: fe:ff:20:00:01:00
+	Mac Destination Address: 00:00:01:00:00:00
+	Protocol Type: TCP
+	Source IP: 65.208.228.223:80
+	Destination IP: 145.254.160.237:3372
+	Packet Length: 54 bytes
+
+=============
+Complete...
+=============
+
+Packet Counts List:
+===============================================================================
+Source IP		|	Destination IP		|	Packet Counts
+-------------------------------------------------------------------------------
+145.253.2.203		|	145.253.2.203		|	1
+145.254.160.237		|	145.254.160.237		|	20
+216.239.59.99		|	216.239.59.99		|	4
+65.208.228.223		|	65.208.228.223		|	18

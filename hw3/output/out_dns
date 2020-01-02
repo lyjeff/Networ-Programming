@@ -1,0 +1,431 @@
+
+=========================================
+Packet number 1
+
+	Time: Mar 30 2005, 16:47:46
+	Mac Source Address: 00:e0:18:b1:0c:ad
+	Mac Destination Address: 00:c0:9f:32:41:8c
+	Protocol Type: UDP
+	Source IP: 192.168.170.8:32795
+	Destination IP: 192.168.170.20:53
+	Packet Length: 70 bytes
+
+=========================================
+Packet number 2
+
+	Time: Mar 30 2005, 16:47:46
+	Mac Source Address: 00:c0:9f:32:41:8c
+	Mac Destination Address: 00:e0:18:b1:0c:ad
+	Protocol Type: UDP
+	Source IP: 192.168.170.20:53
+	Destination IP: 192.168.170.8:32795
+	Packet Length: 98 bytes
+
+=========================================
+Packet number 3
+
+	Time: Mar 30 2005, 16:47:50
+	Mac Source Address: 00:e0:18:b1:0c:ad
+	Mac Destination Address: 00:c0:9f:32:41:8c
+	Protocol Type: UDP
+	Source IP: 192.168.170.8:32795
+	Destination IP: 192.168.170.20:53
+	Packet Length: 70 bytes
+
+=========================================
+Packet number 4
+
+	Time: Mar 30 2005, 16:47:51
+	Mac Source Address: 00:c0:9f:32:41:8c
+	Mac Destination Address: 00:e0:18:b1:0c:ad
+	Protocol Type: UDP
+	Source IP: 192.168.170.20:53
+	Destination IP: 192.168.170.8:32795
+	Packet Length: 298 bytes
+
+=========================================
+Packet number 5
+
+	Time: Mar 30 2005, 16:47:59
+	Mac Source Address: 00:e0:18:b1:0c:ad
+	Mac Destination Address: 00:c0:9f:32:41:8c
+	Protocol Type: UDP
+	Source IP: 192.168.170.8:32795
+	Destination IP: 192.168.170.20:53
+	Packet Length: 70 bytes
+
+=========================================
+Packet number 6
+
+	Time: Mar 30 2005, 16:47:59
+	Mac Source Address: 00:c0:9f:32:41:8c
+	Mac Destination Address: 00:e0:18:b1:0c:ad
+	Protocol Type: UDP
+	Source IP: 192.168.170.20:53
+	Destination IP: 192.168.170.8:32795
+	Packet Length: 70 bytes
+
+=========================================
+Packet number 7
+
+	Time: Mar 30 2005, 16:48:07
+	Mac Source Address: 00:e0:18:b1:0c:ad
+	Mac Destination Address: 00:c0:9f:32:41:8c
+	Protocol Type: UDP
+	Source IP: 192.168.170.8:32795
+	Destination IP: 192.168.170.20:53
+	Packet Length: 85 bytes
+
+=========================================
+Packet number 8
+
+	Time: Mar 30 2005, 16:48:07
+	Mac Source Address: 00:c0:9f:32:41:8c
+	Mac Destination Address: 00:e0:18:b1:0c:ad
+	Protocol Type: UDP
+	Source IP: 192.168.170.20:53
+	Destination IP: 192.168.170.8:32795
+	Packet Length: 129 bytes
+
+=========================================
+Packet number 9
+
+	Time: Mar 30 2005, 16:49:18
+	Mac Source Address: 00:e0:18:b1:0c:ad
+	Mac Destination Address: 00:c0:9f:32:41:8c
+	Protocol Type: UDP
+	Source IP: 192.168.170.8:32795
+	Destination IP: 192.168.170.20:53
+	Packet Length: 74 bytes
+
+=========================================
+Packet number 10
+
+	Time: Mar 30 2005, 16:49:18
+	Mac Source Address: 00:c0:9f:32:41:8c
+	Mac Destination Address: 00:e0:18:b1:0c:ad
+	Protocol Type: UDP
+	Source IP: 192.168.170.20:53
+	Destination IP: 192.168.170.8:32795
+	Packet Length: 90 bytes
+
+=========================================
+Packet number 11
+
+	Time: Mar 30 2005, 16:49:35
+	Mac Source Address: 00:e0:18:b1:0c:ad
+	Mac Destination Address: 00:c0:9f:32:41:8c
+	Protocol Type: UDP
+	Source IP: 192.168.170.8:32795
+	Destination IP: 192.168.170.20:53
+	Packet Length: 74 bytes
+
+=========================================
+Packet number 12
+
+	Time: Mar 30 2005, 16:49:35
+	Mac Source Address: 00:c0:9f:32:41:8c
+	Mac Destination Address: 00:e0:18:b1:0c:ad
+	Protocol Type: UDP
+	Source IP: 192.168.170.20:53
+	Destination IP: 192.168.170.8:32795
+	Packet Length: 102 bytes
+
+=========================================
+Packet number 13
+
+	Time: Mar 30 2005, 16:50:35
+	Mac Source Address: 00:e0:18:b1:0c:ad
+	Mac Destination Address: 00:c0:9f:32:41:8c
+	Protocol Type: UDP
+	Source IP: 192.168.170.8:32795
+	Destination IP: 192.168.170.20:53
+	Packet Length: 74 bytes
+
+=========================================
+Packet number 14
+
+	Time: Mar 30 2005, 16:50:35
+	Mac Source Address: 00:c0:9f:32:41:8c
+	Mac Destination Address: 00:e0:18:b1:0c:ad
+	Protocol Type: UDP
+	Source IP: 192.168.170.20:53
+	Destination IP: 192.168.170.8:32795
+	Packet Length: 102 bytes
+
+=========================================
+Packet number 15
+
+	Time: Mar 30 2005, 16:50:44
+	Mac Source Address: 00:e0:18:b1:0c:ad
+	Mac Destination Address: 00:c0:9f:32:41:8c
+	Protocol Type: UDP
+	Source IP: 192.168.170.8:32795
+	Destination IP: 192.168.170.20:53
+	Packet Length: 74 bytes
+
+=========================================
+Packet number 16
+
+	Time: Mar 30 2005, 16:50:44
+	Mac Source Address: 00:c0:9f:32:41:8c
+	Mac Destination Address: 00:e0:18:b1:0c:ad
+	Protocol Type: UDP
+	Source IP: 192.168.170.20:53
+	Destination IP: 192.168.170.8:32795
+	Packet Length: 94 bytes
+
+=========================================
+Packet number 17
+
+	Time: Mar 30 2005, 16:50:54
+	Mac Source Address: 00:e0:18:b1:0c:ad
+	Mac Destination Address: 00:c0:9f:32:41:8c
+	Protocol Type: UDP
+	Source IP: 192.168.170.8:32795
+	Destination IP: 192.168.170.20:53
+	Packet Length: 76 bytes
+
+=========================================
+Packet number 18
+
+	Time: Mar 30 2005, 16:50:54
+	Mac Source Address: 00:c0:9f:32:41:8c
+	Mac Destination Address: 00:e0:18:b1:0c:ad
+	Protocol Type: UDP
+	Source IP: 192.168.170.20:53
+	Destination IP: 192.168.170.8:32795
+	Packet Length: 76 bytes
+
+=========================================
+Packet number 19
+
+	Time: Mar 30 2005, 16:51:35
+	Mac Source Address: 00:e0:18:b1:0c:ad
+	Mac Destination Address: 00:c0:9f:32:41:8c
+	Protocol Type: UDP
+	Source IP: 192.168.170.8:32795
+	Destination IP: 192.168.170.20:53
+	Packet Length: 75 bytes
+
+=========================================
+Packet number 20
+
+	Time: Mar 30 2005, 16:51:35
+	Mac Source Address: 00:c0:9f:32:41:8c
+	Mac Destination Address: 00:e0:18:b1:0c:ad
+	Protocol Type: UDP
+	Source IP: 192.168.170.20:53
+	Destination IP: 192.168.170.8:32795
+	Packet Length: 75 bytes
+
+=========================================
+Packet number 21
+
+	Time: Mar 30 2005, 16:51:46
+	Mac Source Address: 00:e0:18:b1:0c:ad
+	Mac Destination Address: 00:c0:9f:32:41:8c
+	Protocol Type: UDP
+	Source IP: 192.168.170.8:32795
+	Destination IP: 192.168.170.20:53
+	Packet Length: 79 bytes
+
+=========================================
+Packet number 22
+
+	Time: Mar 30 2005, 16:51:47
+	Mac Source Address: 00:c0:9f:32:41:8c
+	Mac Destination Address: 00:e0:18:b1:0c:ad
+	Protocol Type: UDP
+	Source IP: 192.168.170.20:53
+	Destination IP: 192.168.170.8:32795
+	Packet Length: 79 bytes
+
+=========================================
+Packet number 23
+
+	Time: Mar 30 2005, 16:52:17
+	Mac Source Address: 00:e0:18:b1:0c:ad
+	Mac Destination Address: 00:c0:9f:32:41:8c
+	Protocol Type: UDP
+	Source IP: 192.168.170.8:32795
+	Destination IP: 192.168.170.20:53
+	Packet Length: 71 bytes
+
+=========================================
+Packet number 24
+
+	Time: Mar 30 2005, 16:52:17
+	Mac Source Address: 00:c0:9f:32:41:8c
+	Mac Destination Address: 00:e0:18:b1:0c:ad
+	Protocol Type: UDP
+	Source IP: 192.168.170.20:53
+	Destination IP: 192.168.170.8:32795
+	Packet Length: 115 bytes
+
+=========================================
+Packet number 25
+
+	Time: Mar 30 2005, 16:52:17
+	Mac Source Address: 00:e0:18:b1:0c:ad
+	Mac Destination Address: 00:c0:9f:32:41:8c
+	Protocol Type: UDP
+	Source IP: 192.168.170.8:32796
+	Destination IP: 192.168.170.20:53
+	Packet Length: 82 bytes
+
+=========================================
+Packet number 26
+
+	Time: Mar 30 2005, 16:52:17
+	Mac Source Address: 00:c0:9f:32:41:8c
+	Mac Destination Address: 00:e0:18:b1:0c:ad
+	Protocol Type: UDP
+	Source IP: 192.168.170.20:53
+	Destination IP: 192.168.170.8:32796
+	Packet Length: 105 bytes
+
+=========================================
+Packet number 27
+
+	Time: Mar 30 2005, 16:52:17
+	Mac Source Address: 00:e0:18:b1:0c:ad
+	Mac Destination Address: 00:c0:9f:32:41:8c
+	Protocol Type: UDP
+	Source IP: 192.168.170.8:32797
+	Destination IP: 192.168.170.20:53
+	Packet Length: 67 bytes
+
+=========================================
+Packet number 28
+
+	Time: Mar 30 2005, 16:52:17
+	Mac Source Address: 00:60:08:45:e4:55
+	Mac Destination Address: 00:12:a9:00:32:23
+	Protocol Type: UDP
+	Source IP: 192.168.170.56:1707
+	Destination IP: 217.13.4.24:53
+	Packet Length: 129 bytes
+
+=========================================
+Packet number 29
+
+	Time: Mar 30 2005, 16:52:17
+	Mac Source Address: 00:c0:9f:32:41:8c
+	Mac Destination Address: 00:e0:18:b1:0c:ad
+	Protocol Type: UDP
+	Source IP: 192.168.170.20:53
+	Destination IP: 192.168.170.8:32797
+	Packet Length: 166 bytes
+
+=========================================
+Packet number 30
+
+	Time: Mar 30 2005, 16:52:17
+	Mac Source Address: 00:12:a9:00:32:23
+	Mac Destination Address: 00:60:08:45:e4:55
+	Protocol Type: UDP
+	Source IP: 217.13.4.24:53
+	Destination IP: 192.168.170.56:1707
+	Packet Length: 129 bytes
+
+=========================================
+Packet number 31
+
+	Time: Mar 30 2005, 16:52:17
+	Mac Source Address: 00:60:08:45:e4:55
+	Mac Destination Address: 00:12:a9:00:32:23
+	Protocol Type: UDP
+	Source IP: 192.168.170.56:1708
+	Destination IP: 217.13.4.24:53
+	Packet Length: 98 bytes
+
+=========================================
+Packet number 32
+
+	Time: Mar 30 2005, 16:52:17
+	Mac Source Address: 00:12:a9:00:32:23
+	Mac Destination Address: 00:60:08:45:e4:55
+	Protocol Type: UDP
+	Source IP: 217.13.4.24:53
+	Destination IP: 192.168.170.56:1708
+	Packet Length: 98 bytes
+
+=========================================
+Packet number 33
+
+	Time: Mar 30 2005, 16:52:17
+	Mac Source Address: 00:60:08:45:e4:55
+	Mac Destination Address: 00:12:a9:00:32:23
+	Protocol Type: UDP
+	Source IP: 192.168.170.56:1709
+	Destination IP: 217.13.4.24:53
+	Packet Length: 140 bytes
+
+=========================================
+Packet number 34
+
+	Time: Mar 30 2005, 16:52:17
+	Mac Source Address: 00:12:a9:00:32:23
+	Mac Destination Address: 00:60:08:45:e4:55
+	Protocol Type: UDP
+	Source IP: 217.13.4.24:53
+	Destination IP: 192.168.170.56:1709
+	Packet Length: 140 bytes
+
+=========================================
+Packet number 35
+
+	Time: Mar 30 2005, 16:52:17
+	Mac Source Address: 00:60:08:45:e4:55
+	Mac Destination Address: 00:12:a9:00:32:23
+	Protocol Type: UDP
+	Source IP: 192.168.170.56:1710
+	Destination IP: 217.13.4.24:53
+	Packet Length: 83 bytes
+
+=========================================
+Packet number 36
+
+	Time: Mar 30 2005, 16:52:17
+	Mac Source Address: 00:12:a9:00:32:23
+	Mac Destination Address: 00:60:08:45:e4:55
+	Protocol Type: UDP
+	Source IP: 217.13.4.24:53
+	Destination IP: 192.168.170.56:1710
+	Packet Length: 83 bytes
+
+=========================================
+Packet number 37
+
+	Time: Mar 30 2005, 16:52:25
+	Mac Source Address: 00:60:08:45:e4:55
+	Mac Destination Address: 00:12:a9:00:32:23
+	Protocol Type: UDP
+	Source IP: 192.168.170.56:1711
+	Destination IP: 217.13.4.24:53
+	Packet Length: 83 bytes
+
+=========================================
+Packet number 38
+
+	Time: Mar 30 2005, 16:52:25
+	Mac Source Address: 00:12:a9:00:32:23
+	Mac Destination Address: 00:60:08:45:e4:55
+	Protocol Type: UDP
+	Source IP: 217.13.4.24:53
+	Destination IP: 192.168.170.56:1711
+	Packet Length: 83 bytes
+
+=============
+Complete...
+=============
+
+Packet Counts List:
+===============================================================================
+Source IP		|	Destination IP		|	Packet Counts
+-------------------------------------------------------------------------------
+192.168.170.20		|	192.168.170.20		|	14
+192.168.170.56		|	192.168.170.56		|	5
+192.168.170.8		|	192.168.170.8		|	14
+217.13.4.24		|	217.13.4.24		|	5

@@ -1,0 +1,352 @@
+
+=========================================
+Packet number 1
+
+	Time: Oct 21 2004, 20:19:20
+	Mac Source Address: 00:e0:18:b1:0c:ad
+	Mac Destination Address: 01:00:5e:00:00:05
+	Protocol Type: OSPF
+	Source IP: 192.168.170.8:513
+	Destination IP: 224.0.0.5:44
+	Packet Length: 78 bytes
+
+=========================================
+Packet number 2
+
+	Time: Oct 21 2004, 20:19:30
+	Mac Source Address: 00:e0:18:b1:0c:ad
+	Mac Destination Address: 01:00:5e:00:00:05
+	Protocol Type: OSPF
+	Source IP: 192.168.170.8:513
+	Destination IP: 224.0.0.5:44
+	Packet Length: 78 bytes
+
+=========================================
+Packet number 3
+
+	Time: Oct 21 2004, 20:19:40
+	Mac Source Address: 00:e0:18:b1:0c:ad
+	Mac Destination Address: 01:00:5e:00:00:05
+	Protocol Type: OSPF
+	Source IP: 192.168.170.8:513
+	Destination IP: 224.0.0.5:44
+	Packet Length: 78 bytes
+
+=========================================
+Packet number 4
+
+	Time: Oct 21 2004, 20:19:50
+	Mac Source Address: 00:e0:18:b1:0c:ad
+	Mac Destination Address: 01:00:5e:00:00:05
+	Protocol Type: OSPF
+	Source IP: 192.168.170.8:513
+	Destination IP: 224.0.0.5:44
+	Packet Length: 78 bytes
+
+=========================================
+Packet number 5
+
+	Time: Oct 21 2004, 20:20:00
+	Mac Source Address: 00:e0:18:b1:0c:ad
+	Mac Destination Address: 01:00:5e:00:00:05
+	Protocol Type: OSPF
+	Source IP: 192.168.170.8:513
+	Destination IP: 224.0.0.5:44
+	Packet Length: 78 bytes
+
+=========================================
+Packet number 6
+
+	Time: Oct 21 2004, 20:20:10
+	Mac Source Address: 00:e0:18:b1:0c:ad
+	Mac Destination Address: 01:00:5e:00:00:05
+	Protocol Type: OSPF
+	Source IP: 192.168.170.8:513
+	Destination IP: 224.0.0.5:44
+	Packet Length: 78 bytes
+
+=========================================
+Packet number 7
+
+	Time: Oct 21 2004, 20:20:12
+	Mac Source Address: 00:60:08:81:7a:70
+	Mac Destination Address: 01:00:5e:00:00:05
+	Protocol Type: OSPF
+	Source IP: 192.168.170.2:513
+	Destination IP: 224.0.0.5:44
+	Packet Length: 78 bytes
+
+=========================================
+Packet number 8
+
+	Time: Oct 21 2004, 20:20:13
+	Mac Source Address: 00:e0:18:b1:0c:ad
+	Mac Destination Address: 01:00:5e:00:00:05
+	Protocol Type: OSPF
+	Source IP: 192.168.170.8:513
+	Destination IP: 224.0.0.5:48
+	Packet Length: 82 bytes
+
+=========================================
+Packet number 9
+
+	Time: Oct 21 2004, 20:20:14
+	Mac Source Address: 00:60:08:81:7a:70
+	Mac Destination Address: 01:00:5e:00:00:05
+	Protocol Type: OSPF
+	Source IP: 192.168.170.2:513
+	Destination IP: 224.0.0.5:48
+	Packet Length: 82 bytes
+
+=========================================
+Packet number 10
+
+	Time: Oct 21 2004, 20:20:14
+	Mac Source Address: 00:e0:18:b1:0c:ad
+	Mac Destination Address: 00:60:08:81:7a:70
+	Protocol Type: OSPF
+	Source IP: 192.168.170.8:514
+	Destination IP: 192.168.170.2:32
+	Packet Length: 66 bytes
+
+=========================================
+Packet number 11
+
+	Time: Oct 21 2004, 20:20:14
+	Mac Source Address: 00:60:08:81:7a:70
+	Mac Destination Address: 00:e0:18:b1:0c:ad
+	Protocol Type: OSPF
+	Source IP: 192.168.170.2:514
+	Destination IP: 192.168.170.8:32
+	Packet Length: 66 bytes
+
+=========================================
+Packet number 12
+
+	Time: Oct 21 2004, 20:20:14
+	Mac Source Address: 00:60:08:81:7a:70
+	Mac Destination Address: 00:e0:18:b1:0c:ad
+	Protocol Type: OSPF
+	Source IP: 192.168.170.2:514
+	Destination IP: 192.168.170.8:172
+	Packet Length: 206 bytes
+
+=========================================
+Packet number 13
+
+	Time: Oct 21 2004, 20:20:14
+	Mac Source Address: 00:e0:18:b1:0c:ad
+	Mac Destination Address: 00:60:08:81:7a:70
+	Protocol Type: OSPF
+	Source IP: 192.168.170.8:514
+	Destination IP: 192.168.170.2:52
+	Packet Length: 86 bytes
+
+=========================================
+Packet number 14
+
+	Time: Oct 21 2004, 20:20:14
+	Mac Source Address: 00:60:08:81:7a:70
+	Mac Destination Address: 00:e0:18:b1:0c:ad
+	Protocol Type: OSPF
+	Source IP: 192.168.170.2:514
+	Destination IP: 192.168.170.8:32
+	Packet Length: 66 bytes
+
+=========================================
+Packet number 15
+
+	Time: Oct 21 2004, 20:20:14
+	Mac Source Address: 00:e0:18:b1:0c:ad
+	Mac Destination Address: 00:60:08:81:7a:70
+	Protocol Type: OSPF
+	Source IP: 192.168.170.8:514
+	Destination IP: 192.168.170.2:32
+	Packet Length: 66 bytes
+
+=========================================
+Packet number 16
+
+	Time: Oct 21 2004, 20:20:14
+	Mac Source Address: 00:60:08:81:7a:70
+	Mac Destination Address: 00:e0:18:b1:0c:ad
+	Protocol Type: OSPF
+	Source IP: 192.168.170.2:514
+	Destination IP: 192.168.170.8:32
+	Packet Length: 66 bytes
+
+=========================================
+Packet number 17
+
+	Time: Oct 21 2004, 20:20:14
+	Mac Source Address: 00:60:08:81:7a:70
+	Mac Destination Address: 00:e0:18:b1:0c:ad
+	Protocol Type: OSPF
+	Source IP: 192.168.170.2:515
+	Destination IP: 192.168.170.8:36
+	Packet Length: 70 bytes
+
+=========================================
+Packet number 18
+
+	Time: Oct 21 2004, 20:20:14
+	Mac Source Address: 00:e0:18:b1:0c:ad
+	Mac Destination Address: 00:60:08:81:7a:70
+	Protocol Type: OSPF
+	Source IP: 192.168.170.8:515
+	Destination IP: 192.168.170.2:108
+	Packet Length: 142 bytes
+
+=========================================
+Packet number 19
+
+	Time: Oct 21 2004, 20:20:14
+	Mac Source Address: 00:e0:18:b1:0c:ad
+	Mac Destination Address: 01:00:5e:00:00:05
+	Protocol Type: OSPF
+	Source IP: 192.168.170.8:516
+	Destination IP: 224.0.0.5:64
+	Packet Length: 98 bytes
+
+=========================================
+Packet number 20
+
+	Time: Oct 21 2004, 20:20:14
+	Mac Source Address: 00:60:08:81:7a:70
+	Mac Destination Address: 01:00:5e:00:00:06
+	Protocol Type: OSPF
+	Source IP: 192.168.170.2:516
+	Destination IP: 224.0.0.6:292
+	Packet Length: 326 bytes
+
+=========================================
+Packet number 21
+
+	Time: Oct 21 2004, 20:20:14
+	Mac Source Address: 00:60:08:81:7a:70
+	Mac Destination Address: 01:00:5e:00:00:06
+	Protocol Type: OSPF
+	Source IP: 192.168.170.2:516
+	Destination IP: 224.0.0.6:244
+	Packet Length: 278 bytes
+
+=========================================
+Packet number 22
+
+	Time: Oct 21 2004, 20:20:14
+	Mac Source Address: 00:e0:18:b1:0c:ad
+	Mac Destination Address: 01:00:5e:00:00:05
+	Protocol Type: OSPF
+	Source IP: 192.168.170.8:516
+	Destination IP: 224.0.0.5:60
+	Packet Length: 94 bytes
+
+=========================================
+Packet number 23
+
+	Time: Oct 21 2004, 20:20:14
+	Mac Source Address: 00:e0:18:b1:0c:ad
+	Mac Destination Address: 01:00:5e:00:00:05
+	Protocol Type: OSPF
+	Source IP: 192.168.170.8:516
+	Destination IP: 224.0.0.5:64
+	Packet Length: 98 bytes
+
+=========================================
+Packet number 24
+
+	Time: Oct 21 2004, 20:20:15
+	Mac Source Address: 00:e0:18:b1:0c:ad
+	Mac Destination Address: 01:00:5e:00:00:05
+	Protocol Type: OSPF
+	Source IP: 192.168.170.8:517
+	Destination IP: 224.0.0.5:284
+	Packet Length: 318 bytes
+
+=========================================
+Packet number 25
+
+	Time: Oct 21 2004, 20:20:18
+	Mac Source Address: 00:60:08:81:7a:70
+	Mac Destination Address: 01:00:5e:00:00:06
+	Protocol Type: OSPF
+	Source IP: 192.168.170.2:516
+	Destination IP: 224.0.0.6:76
+	Packet Length: 110 bytes
+
+=========================================
+Packet number 26
+
+	Time: Oct 21 2004, 20:20:19
+	Mac Source Address: 00:e0:18:b1:0c:ad
+	Mac Destination Address: 01:00:5e:00:00:05
+	Protocol Type: OSPF
+	Source IP: 192.168.170.8:517
+	Destination IP: 224.0.0.5:44
+	Packet Length: 78 bytes
+
+=========================================
+Packet number 27
+
+	Time: Oct 21 2004, 20:20:19
+	Mac Source Address: 00:60:08:81:7a:70
+	Mac Destination Address: 00:e0:18:b1:0c:ad
+	Protocol Type: OSPF
+	Source IP: 192.168.170.2:516
+	Destination IP: 192.168.170.8:76
+	Packet Length: 110 bytes
+
+=========================================
+Packet number 28
+
+	Time: Oct 21 2004, 20:20:19
+	Mac Source Address: 00:e0:18:b1:0c:ad
+	Mac Destination Address: 00:60:08:81:7a:70
+	Protocol Type: OSPF
+	Source IP: 192.168.170.8:517
+	Destination IP: 192.168.170.2:44
+	Packet Length: 78 bytes
+
+=========================================
+Packet number 29
+
+	Time: Oct 21 2004, 20:20:20
+	Mac Source Address: 00:60:08:81:7a:70
+	Mac Destination Address: 01:00:5e:00:00:06
+	Protocol Type: OSPF
+	Source IP: 192.168.170.2:516
+	Destination IP: 224.0.0.6:76
+	Packet Length: 110 bytes
+
+=========================================
+Packet number 30
+
+	Time: Oct 21 2004, 20:20:20
+	Mac Source Address: 00:e0:18:b1:0c:ad
+	Mac Destination Address: 00:60:08:81:7a:70
+	Protocol Type: OSPF
+	Source IP: 192.168.170.8:517
+	Destination IP: 192.168.170.2:44
+	Packet Length: 78 bytes
+
+=========================================
+Packet number 31
+
+	Time: Oct 21 2004, 20:20:23
+	Mac Source Address: 00:e0:18:b1:0c:ad
+	Mac Destination Address: 01:00:5e:00:00:05
+	Protocol Type: OSPF
+	Source IP: 192.168.170.8:513
+	Destination IP: 224.0.0.5:48
+	Packet Length: 82 bytes
+
+=============
+Complete...
+=============
+
+Packet Counts List:
+===============================================================================
+Source IP		|	Destination IP		|	Packet Counts
+-------------------------------------------------------------------------------
+192.168.170.2		|	192.168.170.2		|	12
+192.168.170.8		|	192.168.170.8		|	19
