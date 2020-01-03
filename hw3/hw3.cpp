@@ -59,6 +59,7 @@ void callback(u_char *args, const struct pcap_pkthdr *header, const u_char *pack
     char timestr[80];
     time_t local_tv_sec;
     int size_ip;
+
     printf("\n=========================================\nPacket number %d\n\n", count);
     count++;
 
@@ -83,7 +84,7 @@ void callback(u_char *args, const struct pcap_pkthdr *header, const u_char *pack
 
     if (ethernet->ether_type != 8)
     {
-        printf("\tProtocol Type: Not IP\n\n");
+        printf("\tProtocol Type: Not IP Protocol\n\n");
         return;
     }
 
@@ -138,7 +139,10 @@ int main(int argc, char *argv[])
 
         //打開網絡接口
         handle = pcap_open_live(dev, SNAP_LEN, 1, 1000, errbuf);
+        printf("Input Max Packet number (\"-1\" for infinity) >>");
+        scanf("%d", &num_packets);
     }
+
     pcap_loop(handle, num_packets, callback, NULL);
     pcap_freecode(&fp);
     pcap_close(handle);
