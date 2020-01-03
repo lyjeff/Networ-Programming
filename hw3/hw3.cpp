@@ -105,6 +105,8 @@ void callback(u_char *args, const struct pcap_pkthdr *header, const u_char *pack
         printf("\tProtocol Type: NARP\n");
     else
         printf("\tProtocol Type: IP\n");
+
+    // get source and destination ip
     char sour_ip[50], dest_ip[50];
     strcpy(sour_ip, inet_ntoa(ip->ip_src));
     strcpy(dest_ip, inet_ntoa(ip->ip_dst));
