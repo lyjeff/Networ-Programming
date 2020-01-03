@@ -105,14 +105,17 @@ void callback(u_char *args, const struct pcap_pkthdr *header, const u_char *pack
         printf("\tProtocol Type: NARP\n");
     else
         printf("\tProtocol Type: IP\n");
-    printf("\tSource IP: %s:%d\n", inet_ntoa(ip->ip_src), ntohs(tcp->th_sport));
-    printf("\tDestination IP: %s:%d\n", inet_ntoa(ip->ip_dst), ntohs(tcp->th_dport));
+    char sour_ip[50], dest_ip[50];
+    strcpy(sour_ip, inet_ntoa(ip->ip_src));
+    strcpy(dest_ip, inet_ntoa(ip->ip_dst));
+    printf("\tSource IP: %s:%d\n", sour_ip, ntohs(tcp->th_sport));
+    printf("\tDestination IP: %s:%d\n", dest_ip, ntohs(tcp->th_dport));
 
     printf("\tPacket Length: %d bytes\n", len);
 
     char tmp[100];
     memset(tmp, 0, 100);
-    sprintf(tmp, "%s\t\t|\t%s", inet_ntoa(ip->ip_src), inet_ntoa(ip->ip_dst));
+    sprintf(tmp, "%s\t\t|\t%s", sour_ip, dest_ip);
     std::string path(tmp);
     if (Packet.find(path) == Packet.end())
         Packet[path] = 1;
